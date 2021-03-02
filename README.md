@@ -3,6 +3,17 @@
 ### Goals For Project
 We want to build a fully functioning backboard with a ultrasonic sensor that counts made baskets. We also want to be able to understand code and how to use an ultrasonic sensor.
 
+
+### What we accomplished
+We where able to almost finsh are cad and have found a code online that should work for our project
+
+
+
+### On time or Not?
+We are on time to finish we might even be able to finish early
+
+
+
 ### Link For onshape Document
 (https://cvilleschools.onshape.com/documents/370ec0ce98278459c33782b4/w/71aaa089db0a2a1361a07167/e/d96bccb9132f9ffcce7fcd90)
 
