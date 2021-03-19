@@ -4,6 +4,9 @@
 We want to build a fully functioning backboard with a ultrasonic sensor that counts made baskets. We also want to be able to understand code and how to use an ultrasonic sensor.
 
 
+### Major Obstacles 
+We are really struggling to find out how to successfully make our code and create our rim and backboard in onshape.
+
 ### What we accomplished
 We where able to almost finsh are cad and have found a code online that should work for our project
 
