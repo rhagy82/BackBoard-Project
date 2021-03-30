@@ -10,8 +10,9 @@ We are really struggling to find out how to successfully make our code and creat
 ### What we accomplished
 We where able to almost finsh are cad and have found a code online that should work for our project
 
-
-
+### Spring Break Before check
+The project is going fine but we are not on time the major obstacle is the fact that we don't have a backboard.
+When I return from spring break in person the first thing I am going to do is make a backboard.
 ### On time or Not?
 We are on time to finish we might even be able to finish early
 
