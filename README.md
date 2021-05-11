@@ -18,6 +18,14 @@ When I Return from spring break in person the first thing im going to do is, wor
 ### On time or Not?
 We are on time to finish we might even be able to finish early
 
+### Milestones
+We printed our ultrasonic sensor holder and we are ready to finish our backboard.
+
+
+### Parts used
+we 3d printed our holder but we also use an arduino and an ultrasonic sensor and a mini hoop
+
+
 
 
 ### Link For onshape Document
