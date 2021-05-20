@@ -114,7 +114,7 @@ void loop() {
 })
 
 ### Wiring for Basketball Backboard
-
+<img src="Wiring for Basketball Backboard.PNG">
 ### Image
 
 <img src="Backboard Screenshot">
