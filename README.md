@@ -32,7 +32,7 @@ we 3d printed our holder but we also use an arduino and an ultrasonic sensor and
 (https://cvilleschools.onshape.com/documents/370ec0ce98278459c33782b4/w/71aaa089db0a2a1361a07167/e/d96bccb9132f9ffcce7fcd90)
 
 ### Psuedo Code
-```
+```c
 #include <Adafruit_LEDBackpack.h>
 #include <Wire.h> // Enable this line if using Arduino Uno, Mega, etc.
 #include <Adafruit_GFX.h>
