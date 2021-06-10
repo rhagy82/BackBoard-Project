@@ -7,6 +7,10 @@ We want to build a fully functioning backboard with a ultrasonic sensor that cou
 ### Does if work?
 Are Seven Segment Display works and the wiring and code is working but the Ultrasonic Sensor holder is in a wierd place causing the Ultrasonic Sensor to count irregularly or miss points all together.
 
+
+### Video of it Working 
+
+
 ### Milestones
 We printed our ultrasonic sensor holder and we are ready to finish our backboard.
 We finished the code and wiring.
