@@ -23,8 +23,13 @@ We printed our ultrasonic sensor holder and we are ready to finish our backboard
 
 
 ### Parts used
-we 3d printed our holder but we also use an arduino and an ultrasonic sensor and a mini hoop
-
+We used these parts:
+* Unltrasonic Sensor
+* Seven Segment Display
+* Arduino Uno
+* Wires 
+* Pre Built Basketball Backboard From Amazon
+* 3D Prinited Ultrasonic Sensor Holder
 
 
 
