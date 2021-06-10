@@ -4,19 +4,8 @@
 We want to build a fully functioning backboard with a ultrasonic sensor that counts made baskets. We also want to be able to understand code and how to use an ultrasonic sensor.
 
 
-### Major Obstacles 
-We are really struggling to find out how to successfully make our code and create our rim and backboard in onshape.
-
-### What we accomplished
-We where able to almost finsh are cad and have found a code online that should work for our project
-
-### Spring Break Before check
-The project is going fine but we are not on time the major obstacle is the fact that we don't have a backboard.
-When I return from spring break in person the first thing I am going to do is make a backboard.
-
-When I Return from spring break in person the first thing im going to do is, work on CAD
-### On time or Not?
-We are on time to finish we might even be able to finish early
+### Does if work?
+Are Seven Segment Display works and the wiring and code is working but the Ultrasonic Sensor holder is in a wierd place causing the Ultrasonic Sensor to count irregularly or miss points all together.
 
 ### Milestones
 We printed our ultrasonic sensor holder and we are ready to finish our backboard.
