@@ -33,8 +33,7 @@ We used these parts:
 #include <Adafruit_GFX.h>
 #include "Adafruit_LEDBackpack.h"
 
-Adafruit_7segment matrix = Adafruit_7segment();
-
+Adafruit_7segment matrix = Adafruit_7segment(); //This is the call sign for the seven segment display
 
 int led = 8;
 
@@ -58,7 +57,7 @@ void setup() {
   Serial.println(counter);
 
 #ifndef __AVR_ATtiny85__
-  Serial.println("7 Segment Backpack Test");
+  Serial.println("7 Segment Backpack Test");// Test to make sure display is connected properly
 #endif
   matrix.begin(0x70);
 }
@@ -66,7 +65,7 @@ void setup() {
 
 void loop() {
   delay(100);
-
+// This chunk gets the distance
   // Clears the trigPin condition
   digitalWrite(trigPin, LOW);
   delayMicroseconds(2);
@@ -83,7 +82,7 @@ void loop() {
   Serial.print("Distance: ");
   Serial.print(distance);
 
-
+// This chunk tells what distances count as makes
   if (distance != 0 && distance < 100) {
     if (distance < 20 && oldDistance >= 20) {
       digitalWrite(led, HIGH);
