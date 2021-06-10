@@ -25,7 +25,8 @@ We used these parts:
 * Pre Built Basketball Backboard From Amazon
 * 3D Prinited Ultrasonic Sensor Holder
 
-
+### Problems
+We had lots of code problems and wiring problems but we just used google and Mr Helmstetter to help us through.
 
 ### Link For onshape Document
 (https://cvilleschools.onshape.com/documents/370ec0ce98278459c33782b4/w/71aaa089db0a2a1361a07167/e/d96bccb9132f9ffcce7fcd90)
