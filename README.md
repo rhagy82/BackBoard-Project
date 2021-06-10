@@ -9,7 +9,8 @@ Are Seven Segment Display works and the wiring and code is working but the Ultra
 
 ### Milestones
 We printed our ultrasonic sensor holder and we are ready to finish our backboard.
-
+We finished the code and wiring.
+We made the Seven Segment display turn on and work.
 
 ### Parts used
 We used these parts:
