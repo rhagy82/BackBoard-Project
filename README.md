@@ -9,7 +9,7 @@ Are Seven Segment Display works and the wiring and code is working but the Ultra
 
 
 ### Video of it Working 
-
+<img src="bball.gif">
 
 ### Milestones
 We printed our ultrasonic sensor holder and we are ready to finish our backboard.
