@@ -17,9 +17,13 @@ Are Seven Segment Display works and the wiring and code is working but the Ultra
 <img src="bball.gif">
 
 ### Milestones
+We Finished all of our CAD Assembly.
+We made our Ultra Sonic Sensor Holder in Onshape.
 We printed our ultrasonic sensor holder and we are ready to finish our backboard.
 We finished the code and wiring.
 We made the Seven Segment display turn on and work.
+We updated our Github with a gif of the backboard working.
+
 
 ### Parts used
 We used these parts:
@@ -31,7 +35,7 @@ We used these parts:
 * 3D Prinited Ultrasonic Sensor Holder
 
 ### Problems
-We had lots of code problems and wiring problems but we just used google and Mr Helmstetter to help us through.
+We had lots of code problems and wiring problems but we just used google and Mr Helmstetter to help us through. When that did not work we asked class mates to help us.
 
 ### Link For onshape Document
 (https://cvilleschools.onshape.com/documents/370ec0ce98278459c33782b4/w/71aaa089db0a2a1361a07167/e/d96bccb9132f9ffcce7fcd90)
