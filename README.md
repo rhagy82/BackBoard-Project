@@ -1,5 +1,10 @@
 # BackBoard-Project
 
+### Planning 
+We are trying to make a working basketball backboard that counts made baskets everytime you shoot and make a shot. We will determine if we have solved the problem by weather or not we are able to have a working Seven Segment display that counts only the made baskets when we shoot on the hoop. We would like our backboard to be very accurate we do not want it counting misses as makes. We want to use a Seven Segment Display to show the total amount of made baskets and a Ultra Sonic Sensor to sense when the ball go's through the hoop. 
+
+
+
 ### Goals For Project
 We want to build a fully functioning backboard with a ultrasonic sensor that counts made baskets. We also want to be able to understand code and how to use an ultrasonic sensor.
 
