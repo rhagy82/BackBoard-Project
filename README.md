@@ -128,6 +128,12 @@ void loop() {
 
 <img src="Backboard Screenshot">
 
+### More Updated Cad 
+We have finished our CAD and now we are ready to start wiring and working on code.
+
+<img src="Ultra.png">
+<img src="Wholebboard.png">
+
 
 ### Cad for Assembly
 We are starting our assembly for are backboard that we are using to hold the arduino and count the made baskets.
